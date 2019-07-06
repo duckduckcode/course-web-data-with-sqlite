@@ -1,0 +1,62 @@
+{
+	"layout": "coursedata",
+	"title": "Web Data with SQLite",
+	"course": "web-data-with-sqlite",
+	"heading": "Web Data with SQLite",
+	"tagline": "Design and code a one-page website with a database",
+	"chapters": [
+		{
+			"name": "introduction",
+			"subtitle": "Intro",
+			"title": "Introduction"
+		},
+		{
+			"name": "databases",
+			"title": "Databases"
+		},
+		{
+			"name": "table-planning",
+			"title": "Table Planning"
+		},
+		{
+			"name": "table-creation",
+			"title": "Table Creation"
+		},
+		{
+			"name": "creating-data",
+			"title": "Creating Data"
+		},
+		{
+			"name": "reading-data",
+			"title": "Reading Data"
+		},
+		{
+			"name": "flask",
+			"title": "Flask"
+		},
+		{
+			"name": "displaying-data",
+			"title": "Displaying Data"
+		},
+		{
+			"name": "web-forms",
+			"title": "Web Forms"
+		},
+		{
+			"name": "user-login",
+			"title": "User Login"
+		},
+		{
+			"name": "authenticated-forms",
+			"title": "Authenticated Forms"
+		},
+		{
+			"name": "updating-data",
+			"title": "Updating Data"
+		},
+		{
+			"name": "deleting-data",
+			"title": "Deleting Data"
+		}
+	]
+}
